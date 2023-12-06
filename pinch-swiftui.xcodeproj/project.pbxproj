@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		108944672B20E96A005F0B0A /* InfoPanelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108944662B20E96A005F0B0A /* InfoPanelView.swift */; };
+		108944692B20F394005F0B0A /* ControlImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108944682B20F394005F0B0A /* ControlImageView.swift */; };
 		109954242B208F2200DC38A1 /* pinch_swiftuiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109954232B208F2200DC38A1 /* pinch_swiftuiApp.swift */; };
 		109954262B208F2200DC38A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109954252B208F2200DC38A1 /* ContentView.swift */; };
 		109954282B208F2400DC38A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 109954272B208F2400DC38A1 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		108944662B20E96A005F0B0A /* InfoPanelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPanelView.swift; sourceTree = "<group>"; };
+		108944682B20F394005F0B0A /* ControlImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlImageView.swift; sourceTree = "<group>"; };
 		109954202B208F2200DC38A1 /* pinch-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "pinch-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		109954232B208F2200DC38A1 /* pinch_swiftuiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pinch_swiftuiApp.swift; sourceTree = "<group>"; };
 		109954252B208F2200DC38A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -46,6 +48,7 @@
 			isa = PBXGroup;
 			children = (
 				108944662B20E96A005F0B0A /* InfoPanelView.swift */,
+				108944682B20F394005F0B0A /* ControlImageView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				108944692B20F394005F0B0A /* ControlImageView.swift in Sources */,
 				109954262B208F2200DC38A1 /* ContentView.swift in Sources */,
 				109954242B208F2200DC38A1 /* pinch_swiftuiApp.swift in Sources */,
 				108944672B20E96A005F0B0A /* InfoPanelView.swift in Sources */,
